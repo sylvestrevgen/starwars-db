@@ -1,0 +1,18 @@
+.error-information {
+  width: 100%;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #bc7100;
+  font-size: 20px;
+  text-transform: capitalize;
+  
+}
+
+.oops {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
